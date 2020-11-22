@@ -1,7 +1,7 @@
 ## About
 
-Web service for the wellness backend application
-
+A GATT Client for listening and receiving data from BLE (Bluetooth Low Energy) peripherals (Weights, Thermometers, Blood Pressure Devices), also acts a GATT server for android devices.
+![GATT and BLE](https://learn.adafruit.com/introduction-to-bluetooth-low-energy/gatt)
 ## System Architecture
 
 ![Alt System Diagram](https://wellnessimagesdevelopment.s3.amazonaws.com/wellness-image/system_arch-v1.png)
@@ -18,11 +18,6 @@ For a Feature or Implementation (e.g. "Search") endpoint
 3. Many "Unit tests" where you test Product Controller in isolation and verify that the controller handles all different situations, including error paths and edge cases.
 ```
 
-## Deployment Strategy
-
-## Database Design
-
-![Alt ERD-DIAGRAM](https://dbdiagram.io/d/5f8209263a78976d7b772274)
 
 ## How to Run Migrations Locally
 
