@@ -1,7 +1,7 @@
 ## About
 
 A GATT Client for listening and receiving data from BLE (Bluetooth Low Energy) peripherals (Weights, Thermometers, Blood Pressure Devices), also acts a GATT server for android devices.
-![GATT and BLE](https://learn.adafruit.com/introduction-to-bluetooth-low-energy/gatt)
+[GATT and BLE!](https://learn.adafruit.com/introduction-to-bluetooth-low-energy/gatt)
 ## System Architecture
 
 ![Alt System Diagram](https://wellnessimagesdevelopment.s3.amazonaws.com/wellness-image/system_arch-v1.png)
